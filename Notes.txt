@@ -1,0 +1,20 @@
+#RAG/LLM EVALUATION SYSTEM 
+
+
+PROJECT SETUP : Vscode , UV , OpenAIKey       DONE
+
+
+Building the RAG System : 
+
+                        1) PDF splitter
+                        2) Embedding/indexing 
+                        3) Storing information into a vector database
+                        4) Prompt
+                        5) Agent
+                        6) Answering Questions 
+
+
+Data Preperation : 
+
+
+
